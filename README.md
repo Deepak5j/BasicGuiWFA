@@ -6,7 +6,7 @@
 * v1.0 provide only 6 application to access with basic gui.
 * Tested on Windows 10 operating system.
 * But it should work on all windows platform later windows XP.
-* Just download "General Utility App.rar", install and enjoy. :)
+* Just download "General Utility App.rar", install and enjoy : )
 
 
 ### My First Windows App :)
